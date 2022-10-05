@@ -1,5 +1,5 @@
 # 🚀📊 Projects PowerBI e DataBricks 
-Alguns projetos de estudo em **Power BI** e **Databricks** (utilizando linguagens **Python** e **SQL**)
+Alguns projetos de estudo em **Power BI** e **Databricks** (utilizando linguagens **Python** e **SQL**). Os arquivos se encontram no repositório. 
 
 📊 **PROJETO 1** - **Analise da Média Salarial de um Profissional de Dados pelo Mundo**
  - Desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks. A analise é referente a média salarial dos profissionais de Dados pelo Mundo.
