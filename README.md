@@ -8,7 +8,7 @@ Utilizamos uma base de dados de valores de apolice de seguro dos EUA, através d
 <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/1027662697803816980/DashEbac2.jpg">  
 
 ## 📊**PROJETO 2** - **Analise da Média Salarial de um Profissional de Dados pelo Mundo**
- - Desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks. A analise é referente a média salarial dos profissionais de Dados pelo Mundo. 
+ - Desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). A analise é referente a média salarial dos profissionais de Dados pelo Mundo. 
 
 <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/1027194420543639604/dash1.jpg">  
 
