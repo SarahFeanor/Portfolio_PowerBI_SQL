@@ -1,5 +1,6 @@
 # 🚀📊 Projects PowerBI e DataBricks 
 Projetos de estudo em **Power BI** e **Databricks** (utilizando linguagens **Python** e **SQL**). Os arquivos se encontram no repositório. 
+Observação: os dados utilizados nesses dashboards são ficticios, foram utilizados apenas para estudo. 
 
 ## 📊**PROJETO 1** - **Analise acerca dos valores de apolices de seguros por região.** 
 
