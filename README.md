@@ -22,6 +22,8 @@ Observação: os dados utilizados nesses dashboards são ficticios, foram utiliz
 
 ## 📊**PROJETO 3** - **Analise da Média Salarial de um Profissional de Dados pelo Mundo**
  - Desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). A analise é referente a média salarial dos profissionais de Dados pelo Mundo. 
+Workshop - Analisando Dados com Power BI e Databricks (EBAC - Escola Britânica de Artes Criativas e Tecnologia)
+
 
 <img align="center" alt="sarah-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/1027194420543639604/dash1.jpg">  
 
