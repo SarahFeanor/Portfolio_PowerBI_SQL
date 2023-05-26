@@ -4,7 +4,7 @@ Observação: os dados utilizados nesses dashboards são ficticios, foram utiliz
 
 ## 📊**PROJETO 1** - **Analise acerca dos valores de apolices de seguros por região.** 
 
-Utilizamos uma base de dados de valores de apolice de seguro dos EUA, através do relatório é possível comparar os valores segurados dos imóveis de cada região dos Estados Unidos. Podendo determinar quais regiões tem os valores mais elevados. 
+- Utilizamos uma base de dados de valores de apolice de seguro dos EUA, através do relatório é possível comparar os valores segurados dos imóveis de cada região dos Estados Unidos. Podendo determinar quais regiões tem os valores mais elevados. Workshop - Como criar uma analise descritiva usando Power BI (EBAC - Escola Britânica de Artes Criativas e Tecnologia)
 
 <img align="center" alt="sarah-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1088554408469602305/1088554776641421403/01analise.jpg">  
 
