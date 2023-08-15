@@ -2,7 +2,7 @@
 
 # Projects PowerBI e DataBricks 
 
-Este repositório abriga uma coleção diversificada de projetos de estudo em **Power BI** e **Databricks** (utilizando Python** e SQL).
+Este repositório abriga uma coleção diversificada de projetos de estudo em **Power BI** e **Databricks** (utilizando Python e SQL).
 
 Observação: os dados utilizados nesses dashboards são ficticios, foram utilizados apenas para estudo. 
 
