@@ -45,3 +45,4 @@ Observação: os dados utilizados nesses dashboards são ficticios, foram utiliz
 * [LinkedIn](https://www.linkedin.com/in/sarahfrezende/).
 * [Medium](https://medium.com/@sarahfrezende).
 * [Site](https://sarahfariarezende.blogspot.com/).
+* [Portfólio de Data Science](https://github.com/sarahfeanor/Portfolio-DataScience)
