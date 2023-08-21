@@ -1,5 +1,8 @@
 [![capa](https://media.discordapp.net/attachments/1088554408469602305/1140761341506879508/Black_Technology_LinkedIn_Banner_6.jpg?width=1025&height=256)](https://github.com/SarahFeanor?tab=repositories)
 
+<sub> 🔗 [LinkedIn](https://www.linkedin.com/in/sarahfrezende/) | [Medium](https://medium.com/@sarahfrezende) | [Portfólio de Data Science](https://github.com/sarahfeanor/Portfolio-DataScience)
+
+
 # Projects PowerBI e DataBricks 
 
 Este repositório abriga uma coleção diversificada de projetos de estudo em **Power BI** e **Databricks** (utilizando Python e SQL).
@@ -40,9 +43,3 @@ Observação: os dados utilizados nesses dashboards são ficticios, foram utiliz
 * Possuo conhecimentos em **Python** com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como **Pandas**, **Numpy**, **Scikit-Learn** e **Matplotlib**. 
 * Adicionalmente, possuo competências em **SQL/MySQL**, **ETL**, **Power BI**, **Excel**, **DataBricks**, criação de narrativas com dados, conhecimentos estatísticos, análises preditivas e interpretação de séries temporais. Essa combinação me capacita a elaborar e avaliar procedimentos e dados em sistemas de bancos de dados, satisfazendo as demandas dos clientes de maneira eficaz. 📊🔍💡
 
-## 🔗Links
-
-* [LinkedIn](https://www.linkedin.com/in/sarahfrezende/).
-* [Medium](https://medium.com/@sarahfrezende).
-* [Site](https://sarahfariarezende.blogspot.com/).
-* [Portfólio de Data Science](https://github.com/sarahfeanor/Portfolio-DataScience)
