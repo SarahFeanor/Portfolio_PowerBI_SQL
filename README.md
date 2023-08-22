@@ -3,7 +3,7 @@
 <sub> 🔗 [LinkedIn](https://www.linkedin.com/in/sarahfrezende/) | [Medium](https://medium.com/@sarahfrezende) | [Portfólio de Data Science](https://github.com/sarahfeanor/Portfolio-DataScience)
 
 
-# Projects PowerBI e DataBricks 
+# Portfólio - PowerBI 
 
 Este repositório abriga uma coleção diversificada de projetos de estudo em **Power BI** e **Databricks** (utilizando Python e SQL).
 
