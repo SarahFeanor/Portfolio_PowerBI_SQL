@@ -31,10 +31,8 @@ Observação: os dados utilizados nesses dashboards são ficticios, foram utiliz
 
 ## 📝 Artigos
 
-* [A importância da cultura data-driven para o sucesso empresarial](https://medium.com/@sarahfrezende/a-import%C3%A2ncia-da-cultura-data-driven-para-o-sucesso-empresarial-bd04d78d5edd).
-* [O Papel Crucial do Entendimento de Negócios na Excelência do Analista de Dados](https://medium.com/@sarahfrezende/o-papel-crucial-do-entendimento-de-neg%C3%B3cios-na-excel%C3%AAncia-do-analista-de-dados-165f38fa1a50).
-* [Recomendações Personalizadas: Elevando o Engajamento e as Vendas através do Aprendizado de Máquina](https://medium.com/@sarahfrezende/recomenda%C3%A7%C3%B5es-personalizadas-elevando-o-engajamento-e-as-vendas-atrav%C3%A9s-do-aprendizado-de-m%C3%A1quina-a2b0d47a478d).
-* [Diagnóstico Médico Assistido por Computador: Uma Abordagem Inovadora com Machine Learning](https://medium.com/@sarahfrezende/diagn%C3%B3stico-m%C3%A9dico-assistido-por-computador-uma-abordagem-inovadora-com-machine-learning-5d10a44f191).
+* [Python no Excel: Uniram a Potência do Python à Flexibilidade do Excel](https://medium.com/@sarahfrezende/python-no-excel-uniram-a-pot%C3%AAncia-do-python-%C3%A0-flexibilidade-do-excel-4a13c3f67f49).
+* [Desvendando o Poder da Inteligência de Negócios (BI) na Tomada de Decisões Estratégicas](https://medium.com/@sarahfrezende/desvendando-o-poder-da-inteligência-de-negócios-bi-na-tomada-de-decisões-estratégicas-ededfd24e191)
 
 ## 📚 Skills
 
