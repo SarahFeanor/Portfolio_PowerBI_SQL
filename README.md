@@ -1,9 +1,10 @@
-[![capa](https://media.discordapp.net/attachments/1088554408469602305/1140761341506879508/Black_Technology_LinkedIn_Banner_6.jpg?width=1025&height=256)](https://github.com/SarahFeanor?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/-SarahFR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahfrezende/)](https://www.linkedin.com/in/sarahfrezende/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:sarahfrezende@gmail.com) [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-360/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
 
-<sub> 🔗 [LinkedIn](https://www.linkedin.com/in/sarahfrezende/) | [Medium](https://medium.com/@sarahfrezende) | [Portfólio de Data Science](https://github.com/sarahfeanor/Portfolio-DataScience)
+[![capa](https://media.discordapp.net/attachments/1088554408469602305/1140761341506879508/Black_Technology_LinkedIn_Banner_6.jpg?width=1025&height=256)](https://github.com/SarahFeanor?tab=repositories)<sup> 🔗 Visite também >> [Portfólio de Data Science](https://github.com/sarahfeanor/Portfolio-DataScience) </sup>
 
 
-# Portfólio - PowerBI 
+# Portfólio de PowerBI 
 
 Este repositório abriga uma coleção diversificada de projetos de estudo em **Power BI** e **Databricks** (utilizando Python e SQL).
 
