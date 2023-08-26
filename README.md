@@ -6,9 +6,9 @@
 
 # Portfólio de PowerBI 
 
-Este repositório abriga uma coleção diversificada de projetos de estudo em **Power BI** e **Databricks** (utilizando Python e SQL).
+Bem-vindo(a) ao meu repositório de projetos de **Power BI**, criado com o propósito de estudo. Aqui, compartilho projetos desenvolvidos para aprimorar minhas habilidades nessa área em constante evolução.
 
-Observação: os dados utilizados nesses dashboards são ficticios, foram utilizados apenas para estudo. 
+Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
 ## ⚡️ Projetos
 
