@@ -25,7 +25,7 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 
   * [Analise acerca dos valores de apolices de seguros por região](https://github.com/SarahFeanor/Projects_PowerBI/tree/main/An%C3%A1lise%20de%20Valores%20de%20Ap%C3%B3lices%20de%20Seguros%20por%20Regi%C3%A3o): utilizamos uma base de dados de valores de apolice de seguro dos EUA, através do relatório é possível comparar os valores segurados dos imóveis de cada região dos Estados Unidos. Podendo determinar quais regiões tem os valores mais elevados. **Workshop** - Como criar uma analise descritiva usando Power BI. (_**Ferramentas**: Power Bi_)
 
-  * [Analise da Média Salarial de um Profissional de Dados pelo Mundo](https://github.com/SarahFeanor/Projects_PowerBI/blob/main/Analise%20da%20M%C3%A9dia%20Salarial%20de%20um%20Profissional%20de%20Dados/PowerBI-Analise-M%C3%A9dia-Salarial.pbix): desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). A analise é referente a média salarial dos profissionais de Dados pelo Mundo.**Workshop** - Analisando Dados com Power BI e Databricks. (_**Ferramentas**: Power Bi, Databricks_)
+  * [Analise da Média Salarial de um Profissional de Dados No Mundo](https://app.powerbi.com/view?r=eyJrIjoiMzQ0YWMzNzgtMmZmMC00M2ZkLWE1YTEtYjFlOGM0Y2NjNDcyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). A analise é referente a média salarial dos profissionais de Dados pelo Mundo.**Workshop** - Analisando Dados com Power BI e Databricks. (_**Ferramentas**: Power Bi, Databricks_)
 
 ---
 
