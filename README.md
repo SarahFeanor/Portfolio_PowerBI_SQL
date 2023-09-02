@@ -23,15 +23,18 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 <details>
 <summary>OBJETIVO - Lab 1</summary>
 O **objetivo** foi responder às seguintes perguntas: 
+
 * Qual o valor total das vendas?
 * Quantas vendas foram realizadas por categoria de produto? 
 * Quantas vendas foram realizadas por país, considerando a prioridade de entrega? 
 * Qual foi a média de desconto nas vendas por subcategoria de produto? 
 * Quais países apresentaram a maior média de valor de venda? 
+
 </details>
 
    
- [Dashboard de Vendas, Custo, Margem de Lucro e KPI - Lab 2](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZjljNzAtODJmYS00MjYyLWE0NzQtOTY3NjE3ZjNkOWYwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste painel de análise de vendas, realizei diversas etapas, incluindo modelagem de dados, estabelecimento de relações(**cardinalidade**), aplicação de recursos de limpeza de dados do Power BI e a utilização de expressões **DAX** para calcular a margem de lucro. Curso DSA - **Laboratório 2** (Modelagem, Relacionamentos e DAX)|**Ferramentas: Power Bi**.
+ [Dashboard de Vendas, Custo, Margem de Lucro e KPI - Lab 2](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZjljNzAtODJmYS00MjYyLWE0NzQtOTY3NjE3ZjNkOWYwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste painel de análise de vendas, realizei diversas etapas, incluindo modelagem de dados, estabelecimento de relações(**cardinalidade**), aplicação de recursos de limpeza de dados do Power BI e a utilização de expressões **DAX** para calcular a margem de lucro. 
+Curso DSA - **Laboratório 2** (Modelagem, Relacionamentos e DAX) | **Ferramentas: Power Bi**.
 
 <details>
 <summary>OBJETIVO - Lab 2</summary>
