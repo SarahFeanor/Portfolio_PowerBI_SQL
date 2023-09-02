@@ -60,7 +60,8 @@ Essas análises são fundamentais para a tomada de decisões estratégicas e o a
 [Analise acerca dos valores de apolices de seguros por região](https://app.powerbi.com/view?r=eyJrIjoiZTI4NzdkYzctNTc2ZC00NzQ5LThkY2QtODZlOTU3NzgxNzhiIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9):  Este dashboard foi criado com o propósito não apenas compreender e diferenciar variáveis quantitativas e qualitativas, mas também abrange a compreensão das medidas de localização e dispersão. Além disso, explora o uso da linguagem DAX para criar medidas de quartis e proporciona uma explanação sobre a diversidade de tipos gráficos disponíveis. 
 <details>
 <summary>OBJETIVO</summary>
-* Para embasar essa análise, utilizamos uma base de dados que contém informações sobre os valores de apólice de seguro nos Estados Unidos. O foco principal é entender e comparar os valores segurados de imóveis em diferentes regiões do país. 
+
+* Para embasar essa análise, utilizamos uma base de dados que contém informações sobre os valores de apólice de seguro nos Estados Unidos. O foco principal é entender e comparar os valores segurados de imóveis em diferentes regiões do país.
 * Através deste relatório, é possível realizar uma análise comparativa detalhada e determinar quais regiões apresentam os valores mais elevados de apólice de seguro. 
 
 </details>
@@ -68,7 +69,18 @@ Essas análises são fundamentais para a tomada de decisões estratégicas e o a
 * **Workshop** - Como criar uma analise descritiva usando Power BI
 * **Ferramentas**: Power Bi
 
-[Analise da Média Salarial de um Profissional de Dados No Mundo](https://app.powerbi.com/view?r=eyJrIjoiMzQ0YWMzNzgtMmZmMC00M2ZkLWE1YTEtYjFlOGM0Y2NjNDcyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). A analise é referente a média salarial dos profissionais de Dados pelo Mundo.**Workshop** - Analisando Dados com Power BI e Databricks. (_**Ferramentas**: Power Bi, Databricks_)
+[Analise da Média Salarial de um Profissional de Dados No Mundo](https://app.powerbi.com/view?r=eyJrIjoiMzQ0YWMzNzgtMmZmMC00M2ZkLWE1YTEtYjFlOGM0Y2NjNDcyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). 
+
+<details>
+<summary>OBJETIVO</summary>
+
+* A analise é referente a média salarial dos profissionais de Dados pelo Mundo.
+
+</details> 
+
+* **Workshop** - Analisando Dados com Power BI e Databricks.
+
+* **Ferramentas**: Power Bi, Databricks
 
 ---
 
