@@ -18,8 +18,7 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 
 ### 🔸 Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
 
-[Análise de Vendas Globais - Lab 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente. 
-l
+[Análise de Vendas Globais - Lab 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente.
 <details>
 <summary>OBJETIVO - Lab 1</summary>
 O objetivo foi responder às seguintes perguntas: 
