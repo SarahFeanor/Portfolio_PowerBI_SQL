@@ -18,17 +18,16 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 
 ### 🔸 Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
 
-[**Análise de Vendas Globais - Lab 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente. _Curso DSA - Laboratório 1 (Primeiros Passos Com Power BI)_
-_Ferramentas: Power Bi_
+[Análise de Vendas Globais - Lab 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente. Curso DSA - **Laboratório 1**(Primeiros Passos Com Power BI | **Ferramentas**: Power Bi_
 
 <details>
 <summary>OBJETIVO</summary>
 O objetivo foi responder às seguintes perguntas: 
-- Qual o valor total das vendas?
-- Quantas vendas foram realizadas por categoria de produto? 
-- Quantas vendas foram realizadas por país, considerando a prioridade de entrega? 
-- Qual foi a média de desconto nas vendas por subcategoria de produto? 
-- Quais países apresentaram a maior média de valor de venda? 
+* Qual o valor total das vendas?
+* Quantas vendas foram realizadas por categoria de produto? 
+* Quantas vendas foram realizadas por país, considerando a prioridade de entrega? 
+* Qual foi a média de desconto nas vendas por subcategoria de produto? 
+* Quais países apresentaram a maior média de valor de venda? 
 </details>
 
    
