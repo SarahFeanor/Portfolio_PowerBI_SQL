@@ -17,68 +17,70 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 
 
 ### 🔸 Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
+---
 
-[Análise de Vendas Globais - Lab 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente.
+[ANÁLISE DE VENDAS GLOBAIS - LAB 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente.
 <details>
 <summary>OBJETIVO - Lab 1</summary>
-O objetivo foi responder às seguintes perguntas: 
 
-* Qual o valor total das vendas?
-* Quantas vendas foram realizadas por categoria de produto? 
-* Quantas vendas foram realizadas por país, considerando a prioridade de entrega? 
-* Qual foi a média de desconto nas vendas por subcategoria de produto? 
-* Quais países apresentaram a maior média de valor de venda? 
+**Buscamos responder às seguintes perguntas:** 
+
+* Qual o **valor total** das **vendas**?
+* Quantas **vendas** foram realizadas por **categoria de produto**? 
+* Quantas **vendas** foram realizadas por **país**, considerando a **prioridade** de entrega? 
+* Qual foi a **média** de **desconto** nas vendas por **subcategoria** de produto? 
+* Quais países apresentaram a **maior média** de valor de **venda**?
+
+  _Curso DSA - **Laboratório 1**(Primeiros Passos Com Power BI_ | _Ferramentas: **Power BI**_
 
 </details>
 
-* Curso DSA - **Laboratório 1**(Primeiros Passos Com Power BI
-* Ferramentas: **Power BI**
    
- [Dashboard de Vendas, Custo, Margem de Lucro e KPI - Lab 2](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZjljNzAtODJmYS00MjYyLWE0NzQtOTY3NjE3ZjNkOWYwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste painel de análise de vendas, realizei diversas etapas, incluindo modelagem de dados, estabelecimento de relações(**cardinalidade**), aplicação de recursos de limpeza de dados do Power BI e a utilização de expressões **DAX** para calcular a margem de lucro. 
+[DASHBOARD DE VENDAS, CUSTO, MARGEM DE LUCRO E KPI - LAB 2](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZjljNzAtODJmYS00MjYyLWE0NzQtOTY3NjE3ZjNkOWYwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste painel de análise de vendas, realizei diversas etapas, incluindo modelagem de dados, estabelecimento de relações(**cardinalidade**), aplicação de recursos de limpeza de dados do Power BI e a utilização de expressões **DAX** para calcular a margem de lucro. 
 
 <details>
 <summary>OBJETIVO - Lab 2</summary>
-O objetivo deste relatório é responder a uma série de perguntas fundamentais: 
 
-* Qual o Total de Vendas por Modo de Envio? 
-* Qual o Custo Médio de Envio por Mercado? 
-* Qual foi o Desempenho em Relação à Meta da empresa de manter uma média de vendas mensal de 350 e se ficou abaixo ou acima dessa meta no mês de Abril/2014? 
-* Qual foi o Lucro por Categoria de Produto? 
-* Qual foi o Comportamento da Margem de Lucro ao Longo do Tempo? 
+**O objetivo deste relatório é responder a uma série de perguntas fundamentais:** 
+
+* Qual o **Total** de **Vendas** por **Modo de Envio**? 
+* Qual o **Custo Médio** de Envio por **Mercado**? 
+* Qual foi o Desempenho em Relação à Meta da empresa de **manter uma média** de vendas mensal de 350? E se ficou abaixo ou acima dessa meta no mês de **Abril/2014**? 
+* Qual foi o **Lucro** por **Categoria de Produto**? 
+* Qual foi o Comportamento da **Margem de Lucro** ao **Longo do Tempo**? 
 
 Essas análises são fundamentais para a tomada de decisões estratégicas e o acompanhamento do desempenho da empresa no que diz respeito às vendas, custos e lucros ao longo do tempo.
+
+_Curso DSA - **Laboratório 2** (Modelagem, Relacionamentos e DAX)_ | _Ferramentas: **Power Bi**_
+
 </details>
-
-* Curso DSA - **Laboratório 2** (Modelagem, Relacionamentos e DAX)
-* Ferramentas: **Power Bi**.
-
 
 ---
 ### 🔸 Projetos de Workshops da EBAC - Escola Britânica de Artes Criativas
+---
 
-[Analise acerca dos valores de apolices de seguros por região](https://app.powerbi.com/view?r=eyJrIjoiZTI4NzdkYzctNTc2ZC00NzQ5LThkY2QtODZlOTU3NzgxNzhiIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9):  Este dashboard foi criado com o propósito não apenas compreender e diferenciar variáveis quantitativas e qualitativas, mas também abrange a compreensão das medidas de localização e dispersão. Além disso, explora o uso da linguagem DAX para criar medidas de quartis e proporciona uma explanação sobre a diversidade de tipos gráficos disponíveis. 
+[ANÁLISE ACERCA DOS VALORES DE APÓLICES DE SEGUROS POR REGIÃO](https://app.powerbi.com/view?r=eyJrIjoiZTI4NzdkYzctNTc2ZC00NzQ5LThkY2QtODZlOTU3NzgxNzhiIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9):  Este dashboard foi criado com o propósito não apenas compreender e diferenciar variáveis quantitativas e qualitativas, mas também abrange a compreensão das medidas de localização e dispersão. Além disso, explora o uso da linguagem DAX para criar medidas de quartis e proporciona uma explanação sobre a diversidade de tipos gráficos disponíveis. 
 <details>
 <summary>OBJETIVO</summary>
 
 * Para embasar essa análise, utilizamos uma base de dados que contém informações sobre os valores de apólice de seguro nos Estados Unidos. O foco principal é entender e comparar os valores segurados de imóveis em diferentes regiões do país.
-* Através deste relatório, é possível realizar uma análise comparativa detalhada e determinar quais regiões apresentam os valores mais elevados de apólice de seguro. 
+* Através deste relatório, é possível realizar uma análise comparativa detalhada e determinar quais regiões apresentam os valores mais elevados de apólice de seguro.
+
+_**Workshop** - Como criar uma analise descritiva usando Power BI_ | _**Ferramentas**: Power Bi_
 
 </details>
 
-* **Workshop** - Como criar uma analise descritiva usando Power BI
-* **Ferramentas**: Power Bi
 
-[Analise da Média Salarial de um Profissional de Dados No Mundo](https://app.powerbi.com/view?r=eyJrIjoiMzQ0YWMzNzgtMmZmMC00M2ZkLWE1YTEtYjFlOGM0Y2NjNDcyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): desenvolvi um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). 
+[ANÁLISE DA MÉDIA SALARIAL DE UM PROFISSIONAL DE DADOS NO MUNDO](https://app.powerbi.com/view?r=eyJrIjoiMzQ0YWMzNzgtMmZmMC00M2ZkLWE1YTEtYjFlOGM0Y2NjNDcyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): desenvolvi um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). 
 
 <details>
 <summary>OBJETIVO</summary>
 
 * A analise é referente a média salarial dos profissionais de Dados pelo Mundo.
-
+* _**Workshop** - Analisando Dados com Power BI e Databricks._
+* _**Ferramentas**: Power Bi, Databricks_
 </details> 
 
-* **Workshop** - Analisando Dados com Power BI e Databricks.
-* **Ferramentas**: Power Bi, Databricks
 
 ---
 
