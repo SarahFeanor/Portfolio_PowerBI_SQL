@@ -18,7 +18,8 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 
 ### 🔸 Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
 
-  * [Análise de Vendas Globais - Lab 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente. 
+[**Análise de Vendas Globais - Lab 1](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste Dashboard Analítico de Vendas Globais, analisamos os dados de vendas de uma empresa fictícia que atua globalmente. _Curso DSA - Laboratório 1 (Primeiros Passos Com Power BI)_
+_Ferramentas: Power Bi_
 
 <details>
 <summary>OBJETIVO</summary>
@@ -30,8 +31,6 @@ O objetivo foi responder às seguintes perguntas:
 - Quais países apresentaram a maior média de valor de venda? 
 </details>
 
-_Curso DSA - Laboratório 1 (Primeiros Passos Com Power BI)_
-_Ferramentas: Power Bi_
    
  * [Dashboard de Vendas, Custo, Margem de Lucro e KPI - Lab 2](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZjljNzAtODJmYS00MjYyLWE0NzQtOTY3NjE3ZjNkOWYwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): neste painel de análise de vendas, realizei diversas etapas, incluindo modelagem de dados, estabelecimento de relações(**cardinalidade**), aplicação de recursos de limpeza de dados do Power BI e a utilização de expressões **DAX** para calcular a margem de lucro. O objetivo deste relatório é responder a uma série de perguntas fundamentais: Qual o Total de Vendas por Modo de Envio? Qual o Custo Médio de Envio por Mercado? Qual foi o Desempenho em Relação à Meta da empresa de manter uma média de vendas mensal de 350 e se ficou abaixo ou acima dessa meta no mês de Abril/2014? Qual foi o Lucro por Categoria de Produto? Qual foi o Comportamento da Margem de Lucro ao Longo do Tempo? Essas análises são fundamentais para a tomada de decisões estratégicas e o acompanhamento do desempenho da empresa no que diz respeito às vendas, custos e lucros ao longo do tempo. | Curso DSA - **Laboratório 2** (Modelagem, Relacionamentos e DAX) (_**Ferramentas: Power Bi**_) 
 
