@@ -69,7 +69,7 @@ Essas análises são fundamentais para a tomada de decisões estratégicas e o a
 * **Workshop** - Como criar uma analise descritiva usando Power BI
 * **Ferramentas**: Power Bi
 
-[Analise da Média Salarial de um Profissional de Dados No Mundo](https://app.powerbi.com/view?r=eyJrIjoiMzQ0YWMzNzgtMmZmMC00M2ZkLWE1YTEtYjFlOGM0Y2NjNDcyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): desenvolvemos um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). 
+[Analise da Média Salarial de um Profissional de Dados No Mundo](https://app.powerbi.com/view?r=eyJrIjoiMzQ0YWMzNzgtMmZmMC00M2ZkLWE1YTEtYjFlOGM0Y2NjNDcyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9): desenvolvi um relatório em Power BI utilizando a base de informações que foram tratadas no Databricks (utilizando Python e SQL). 
 
 <details>
 <summary>OBJETIVO</summary>
@@ -79,7 +79,6 @@ Essas análises são fundamentais para a tomada de decisões estratégicas e o a
 </details> 
 
 * **Workshop** - Analisando Dados com Power BI e Databricks.
-
 * **Ferramentas**: Power Bi, Databricks
 
 ---
