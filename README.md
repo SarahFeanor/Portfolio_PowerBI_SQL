@@ -21,8 +21,10 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 Os projetos abaixo são referentes a este curso abrangente de Power BI, no qual tive a oportunidade não apenas de adquirir conhecimentos sobre a ferramenta, mas também de aprender as linguagens DAX e M. O curso capacita os alunos a se tornarem proficientes na principal ferramenta de Business Intelligence. Ele abrange desde os conceitos fundamentais até aplicações práticas em áreas cruciais, como marketing, recursos humanos, logística, finanças e análise do mercado de ações. Aprendi a criar soluções poderosas para resolver desafios de negócios, com ênfase na modelagem de dados e análise, desenvolvendo habilidades essenciais para transformar dados brutos em insights acionáveis. 
 
 ---
-  
-**1) Primeiros Passos com o Microsoft Power BI**: [ANÁLISE DE VENDAS GLOBAIS](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9)
+
+### 📍 Primeiros Passos com o Microsoft Power BI: 
+
+Laborátorio 1: [ANÁLISE DE VENDAS GLOBAIS](https://app.powerbi.com/view?r=eyJrIjoiZjZmYjJmOTctODJkYi00ZDNiLWE4OTYtNzBhZjVhYjg2MjMyIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9)
 
  <details>
 <summary>Resumo</summary></summary>
@@ -31,7 +33,10 @@ O Laboratório Prático 1 é uma parte essencial do curso, focado na criação d
 
 </details>
 
-**2) Modelagem, Relacionamentos e DAX**: [DASHBOARD DE VENDAS, CUSTO, MARGEM DE LUCRO E KPI](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZjljNzAtODJmYS00MjYyLWE0NzQtOTY3NjE3ZjNkOWYwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9)
+
+### 📍 Modelagem, Relacionamentos e DAX: 
+
+Laborátorio 2: [DASHBOARD DE VENDAS, CUSTO, MARGEM DE LUCRO E KPI](https://app.powerbi.com/view?r=eyJrIjoiNmM5ZjljNzAtODJmYS00MjYyLWE0NzQtOTY3NjE3ZjNkOWYwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9)
 
 <details>
 <summary>Resumo</summary>
@@ -41,46 +46,62 @@ Neste painel de análise de vendas, realizei diversas etapas, incluindo modelage
 
 </details>
 
-**4) Power BI Para Análise de Dados de Marketing**: [ANÁLISE DE CAMPANHA DE MARKETING COM POWER BI - MINI-PROJETO 1](https://app.powerbi.com/view?r=eyJrIjoiMWViMzkyZjMtNzhmYi00NDE4LWFhM2YtZjc2NzVhNzcxNjgwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
+### 📍 Análise de Dados de Marketing: 
+
+Mini-Projeto 1: [ANÁLISE DE CAMPANHA DE MARKETING COM POWER BI](https://app.powerbi.com/view?r=eyJrIjoiMWViMzkyZjMtNzhmYi00NDE4LWFhM2YtZjc2NzVhNzcxNjgwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
+
 <details>
 <summary>Resumo</summary>
 * O projeto visa utilizar a plataforma Power BI para analisar de forma abrangente uma campanha de marketing. Ele busca fornecer uma visão detalhada sobre o cliente, seu comportamento de compra, a eficácia da campanha de marketing e insights sobre os pontos de venda. Através dessas análises, a equipe pretende tomar decisões estratégicas informadas para melhorar o desempenho das campanhas e otimizar a relação com os clientes, aumentando assim a eficiência do marketing e as vendas.
 </details>
 
 
-**5) Power BI Para Análise de Dados Comerciais**: [DASHBOARD COMERCIAL - PERFORMACE DE VENDAS - MINI-PROJETO 2]() 
+### 📍 Análise de Dados Comerciais: 
+
+Mini-projeto 2: [DASHBOARD COMERCIAL - PERFORMACE DE VENDAS]() 
+
 <details>
 <summary>Resumo</summary>
 O objetivo do projeto do Dashboard Comercial é criar uma ferramenta de análise que permita acompanhar a performance de vendas de uma organização de forma eficaz. Ele visa fornecer informações detalhadas sobre o total de vendas por segmento, fabricante e categoria, identificar os principais influenciadores de vendas, e analisar o desempenho dos vendedores. Além disso, o dashboard irá apresentar um resumo por categoria e ponto de venda, e incluir um menu para facilitar a navegação e acesso rápido aos insights de vendas, auxiliando na tomada de decisões estratégicas.
 </details>
 
-**6) Power BI Para Análise de Dados de Recursos Humanos**: [ANÁLISE DE DADOS DE RH COM POWER BI - MINI-PROJETO 3]() 
+### 📍 Análise de Dados de Recursos Humanos:
+
+Mini-Projeto 3: [ANÁLISE DE DADOS DE RH COM POWER BI ]() 
 <details>
 <summary>Resumo</summary>
 O projeto de Análise de Dados de RH com Power BI tem como objetivo principal proporcionar insights estratégicos para a gestão de recursos humanos. Isso inclui a visualização do total de funcionários por função, a identificação do percentual de funcionários disponíveis para hora extra, a análise do percentual de funcionários por nível de envolvimento no trabalho, e a customização de valores percentuais utilizando medidas DAX como CountRows, Divide, Average e Calculate. Além disso, o projeto visa criar colunas condicionais para destacar informações relevantes e facilitar a interpretação dos dados, auxiliando assim na tomada de decisões relacionadas à gestão de pessoal de forma mais eficaz.
 </details>
 
-**7) Power BI Para Análise de Dados de Logística**: [DESAFIO DE ANÁLISE NA ÁREA DE LOGÍSTICA COM POWER BI - MINI-PROJETO 4]() 
+### 📍 Análise de Dados de Logística: 
+
+Mini-Projeto 4: [DESAFIO DE ANÁLISE NA ÁREA DE LOGÍSTICA COM POWER BI - MINI-PROJETO 4]() 
 <details>
 <summary>Resumo</summary>
 
 O projeto "Desafio de Análise na Área de Logística com Power BI" tem como objetivo aprimorar a eficiência e tomada de decisões na logística. Isso será alcançado por meio da criação de KPIs de logística, incluindo o total de entregas no prazo por canal de entrega, o percentual de entregas por equipes, e o total de entregas por mês com medidas personalizadas. Além disso, o projeto analisará o desempenho dos cinco principais vendedores, o total de entregas com atraso por cidade, o percentual de entregas por status de entrega e a classificação de rating. O Power BI será utilizado como uma ferramenta fundamental para visualizar e interpretar esses dados, contribuindo para a otimização das operações logísticas.
 </details>
 
-**8) Power BI Para Análise de Dados Financeiros**: [DASHBOARD DE ANÁLISE FINANCEIRA COM POWER BI- MINI-PROJETO 5]() 
+### 📍 Análise de Dados Financeiros: 
+
+Mini-Projeto 5[DASHBOARD DE ANÁLISE FINANCEIRA COM POWER BI]() 
 <details>
 <summary>Resumo</summary>
 O projeto "Dashboard de Análise Financeira" visa oferecer uma visão abrangente das finanças de uma organização. Isso envolve a criação de um dashboard com funcionalidades como pivô de tabela e hierarquia de data para facilitar a análise temporal. Serão criadas tabelas de medidas com indicadores financeiros, incluindo total de receitas e despesas por componente, bem como uma linha de média para análise de tendências. Além disso, será desenvolvida uma tabela de sumário financeiro destacando os principais segmentos de receitas e despesas, permitindo uma análise financeira detalhada e informada.
   
 </details>
 
-**9) Power BI Para Análise de Dados Contábeis**: [BALANÇO PATRIMONIAL COM VISUAL DE MATRIZ COM POWER BI- MINI-PROJETO 6]() 
+### 📍 Análise de Dados Contábeis: 
+
+Mini-Projeto 6: [BALANÇO PATRIMONIAL COM VISUAL DE MATRIZ COM POWER BI]() 
 <details>
 <summary>Resumo</summary>
 O projeto "Balanço Patrimonial com Visual de Matriz" tem como objetivo criar uma representação visual eficaz do balanço patrimonial de uma empresa. Isso inclui a construção do balanço patrimonial em um formato de matriz, permitindo a navegação hierárquica para análise detalhada. A funcionalidade de "drill down" será habilitada para explorar níveis mais profundos de informações, e o layout poderá ser ajustado para melhorar a legibilidade. Ao final, o projeto proporcionará uma visualização clara e interativa do balanço patrimonial, auxiliando na compreensão e interpretação dos dados financeiros da empresa.
 </details>
 
-**10) Power BI Para Análise de Dados do Mercado de Ações**: [DASHBOARD ANALÍTICO DO MERCADO DE AÇÕES - MINI-PROJETO 7]() 
+### 📍 Análise de Dados do Mercado de Ações: 
+
+Mini-Projeto 7: [DASHBOARD ANALÍTICO DO MERCADO DE AÇÕES]() 
 <details>
 <summary>Resumo</summary>
 O projeto "Dashboard Analítico do Mercado de Ações" visa criar uma ferramenta de análise de dados financeiros com recursos de narrativa inteligente. Ele fornecerá insights sobre o mercado de ações, incluindo o total de volume negociado ao longo do tempo e uma tabela de valores médios por mês. Além disso, destacará variações na média de fechamento das ações. Para maior interatividade, serão adicionadas opções de segmentação de dados que ajudará os usuários a compreenderem as tendências e os eventos relevantes no mercado de ações de forma mais intuitiva e informada.
