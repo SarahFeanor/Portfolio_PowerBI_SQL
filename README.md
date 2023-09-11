@@ -84,7 +84,7 @@ O projeto "Desafio de Análise na Área de Logística com Power BI" tem como obj
 
 ### 📍 Análise de Dados Financeiros: 
 
-Mini-Projeto 5[DASHBOARD DE ANÁLISE FINANCEIRA COM POWER BI]() 
+Mini-Projeto 5: [DASHBOARD DE ANÁLISE FINANCEIRA COM POWER BI]() 
 <details>
 <summary>Resumo</summary>
 O projeto "Dashboard de Análise Financeira" visa oferecer uma visão abrangente das finanças de uma organização. Isso envolve a criação de um dashboard com funcionalidades como pivô de tabela e hierarquia de data para facilitar a análise temporal. Serão criadas tabelas de medidas com indicadores financeiros, incluindo total de receitas e despesas por componente, bem como uma linha de média para análise de tendências. Além disso, será desenvolvida uma tabela de sumário financeiro destacando os principais segmentos de receitas e despesas, permitindo uma análise financeira detalhada e informada.
