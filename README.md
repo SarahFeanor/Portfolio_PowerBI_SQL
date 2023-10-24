@@ -149,8 +149,4 @@ _**Workshop** - Como criar uma analise descritiva usando Power BI_ | _**Ferramen
 * Possuo conhecimentos em **Python** com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como **Pandas**, **Numpy**, **Scikit-Learn** e **Matplotlib**. 
 * Adicionalmente, possuo competências em **SQL/MySQL**, **ETL**, **Power BI**, **Excel**, **DataBricks**, criação de narrativas com dados, conhecimentos estatísticos, análises preditivas e interpretação de séries temporais. Essa combinação me capacita a elaborar e avaliar procedimentos e dados em sistemas de bancos de dados, satisfazendo as demandas dos clientes de maneira eficaz. 📊🔍💡
 
-## 📝 Artigos
-
-* [Python no Excel: Uniram a Potência do Python à Flexibilidade do Excel](https://medium.com/@sarahfrezende/python-no-excel-uniram-a-pot%C3%AAncia-do-python-%C3%A0-flexibilidade-do-excel-4a13c3f67f49).
-* [Desvendando o Poder da Inteligência de Negócios (BI) na Tomada de Decisões Estratégicas](https://medium.com/@sarahfrezende/desvendando-o-poder-da-inteligência-de-negócios-bi-na-tomada-de-decisões-estratégicas-ededfd24e191)
 
