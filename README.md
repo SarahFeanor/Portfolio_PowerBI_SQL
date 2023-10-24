@@ -19,7 +19,9 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 
 ## 🔹 Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
 
-Os projetos abaixo são referentes a este curso de Power BI, no qual tive a oportunidade não apenas de adquirir conhecimentos sobre a ferramenta, mas também a uma introdução as linguagens DAX. O curso abrange desde os conceitos fundamentais até aplicações práticas em áreas cruciais, como marketing, recursos humanos, logística, finanças e análise do mercado de ações.
+
+Os projetos abaixo são referentes a este curso de Power BI, no qual tive a oportunidade não apenas de adquirir conhecimentos sobre a ferramenta, mas também a uma introdução as expressões DAX. O curso abrange desde os conceitos fundamentais até aplicações práticas em áreas cruciais, como marketing, recursos humanos, logística, finanças e análise do mercado de ações.
+
 ---
 
 ### 📍 Primeiros Passos com o Microsoft Power BI: 
