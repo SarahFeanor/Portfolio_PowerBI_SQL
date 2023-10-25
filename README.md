@@ -70,7 +70,7 @@ O objetivo do projeto do Dashboard Comercial é criar uma ferramenta de análise
 
 ### 📍 Análise de Dados de Recursos Humanos:
 
-Mini-Projeto 3: [ANÁLISE DE DADOS DE RH COM POWER BI ]() 
+Mini-Projeto 3: [ANÁLISE DE DADOS DE RH COM POWER BI ](https://app.powerbi.com/view?r=eyJrIjoiMjNjYzEzY2YtZDc3OC00ZTAzLWFmMTQtNTdjZmY2ZTlhMjAxIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
 <details>
 <summary>Resumo</summary>
 O projeto de Análise de Dados de RH com Power BI tem como objetivo principal proporcionar insights estratégicos para a gestão de recursos humanos. Isso inclui a visualização do total de funcionários por função, a identificação do percentual de funcionários disponíveis para hora extra, a análise do percentual de funcionários por nível de envolvimento no trabalho, e a customização de valores percentuais utilizando medidas DAX como CountRows, Divide, Average e Calculate. Além disso, o projeto visa criar colunas condicionais para destacar informações relevantes e facilitar a interpretação dos dados, auxiliando assim na tomada de decisões relacionadas à gestão de pessoal de forma mais eficaz.
@@ -78,7 +78,7 @@ O projeto de Análise de Dados de RH com Power BI tem como objetivo principal pr
 
 ### 📍 Análise de Dados de Logística: 
 
-Mini-Projeto 4: [DESAFIO DE ANÁLISE NA ÁREA DE LOGÍSTICA COM POWER BI - MINI-PROJETO 4]() 
+Mini-Projeto 4: [DESAFIO DE ANÁLISE NA ÁREA DE LOGÍSTICA COM POWER BI - MINI-PROJETO 4](https://app.powerbi.com/view?r=eyJrIjoiNDE4NmYxM2ItODZiZC00ODUyLTk1Y2ItYzVmMTJiYjMyZTA5IiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
 <details>
 <summary>Resumo</summary>
 
@@ -87,7 +87,7 @@ O projeto "Desafio de Análise na Área de Logística com Power BI" tem como obj
 
 ### 📍 Análise de Dados Financeiros: 
 
-Mini-Projeto 5: [DASHBOARD DE ANÁLISE FINANCEIRA COM POWER BI]() 
+Mini-Projeto 5: [DASHBOARD DE ANÁLISE FINANCEIRA COM POWER BI](https://app.powerbi.com/view?r=eyJrIjoiN2U2NjQ5OTEtMzVkNS00MWJiLWE5NDEtZDNhYjU3ZjE0YWRhIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
 <details>
 <summary>Resumo</summary>
 O projeto "Dashboard de Análise Financeira" visa oferecer uma visão abrangente das finanças de uma organização. Isso envolve a criação de um dashboard com funcionalidades como pivô de tabela e hierarquia de data para facilitar a análise temporal. Serão criadas tabelas de medidas com indicadores financeiros, incluindo total de receitas e despesas por componente, bem como uma linha de média para análise de tendências. Além disso, será desenvolvida uma tabela de sumário financeiro destacando os principais segmentos de receitas e despesas, permitindo uma análise financeira detalhada e informada.
@@ -96,7 +96,7 @@ O projeto "Dashboard de Análise Financeira" visa oferecer uma visão abrangente
 
 ### 📍 Análise de Dados Contábeis: 
 
-Mini-Projeto 6: [BALANÇO PATRIMONIAL COM VISUAL DE MATRIZ COM POWER BI]() 
+Mini-Projeto 6: [BALANÇO PATRIMONIAL COM VISUAL DE MATRIZ COM POWER BI](https://app.powerbi.com/view?r=eyJrIjoiMjMxYTIxYmUtNjY3My00MzY0LWJjYjktMjQ4YTU5NmM0YTA4IiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
 <details>
 <summary>Resumo</summary>
 O projeto "Balanço Patrimonial com Visual de Matriz" tem como objetivo criar uma representação visual eficaz do balanço patrimonial de uma empresa. Isso inclui a construção do balanço patrimonial em um formato de matriz, permitindo a navegação hierárquica para análise detalhada. A funcionalidade de "drill down" será habilitada para explorar níveis mais profundos de informações, e o layout poderá ser ajustado para melhorar a legibilidade. Ao final, o projeto proporcionará uma visualização clara e interativa do balanço patrimonial, auxiliando na compreensão e interpretação dos dados financeiros da empresa.
@@ -104,7 +104,7 @@ O projeto "Balanço Patrimonial com Visual de Matriz" tem como objetivo criar um
 
 ### 📍 Análise de Dados do Mercado de Ações: 
 
-Mini-Projeto 7: [DASHBOARD ANALÍTICO DO MERCADO DE AÇÕES]() 
+Mini-Projeto 7: [DASHBOARD ANALÍTICO DO MERCADO DE AÇÕES](https://app.powerbi.com/view?r=eyJrIjoiMTU0NDk1MTYtNGIwOS00ZmIwLTg0MDItOTE3MzIwM2VlMzQwIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
 <details>
 <summary>Resumo</summary>
 O projeto "Dashboard Analítico do Mercado de Ações" visa criar uma ferramenta de análise de dados financeiros com recursos de narrativa inteligente. Ele fornecerá insights sobre o mercado de ações, incluindo o total de volume negociado ao longo do tempo e uma tabela de valores médios por mês. Além disso, destacará variações na média de fechamento das ações. Para maior interatividade, serão adicionadas opções de segmentação de dados que ajudará os usuários a compreenderem as tendências e os eventos relevantes no mercado de ações de forma mais intuitiva e informada.
