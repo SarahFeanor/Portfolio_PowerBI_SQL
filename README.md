@@ -61,7 +61,7 @@ Mini-Projeto 1: [ANÁLISE DE CAMPANHA DE MARKETING COM POWER BI](https://app.pow
 
 ### 📍 Análise de Dados Comerciais: 
 
-Mini-projeto 2: [DASHBOARD COMERCIAL - PERFORMACE DE VENDAS]() 
+Mini-projeto 2: [DASHBOARD COMERCIAL - PERFORMACE DE VENDAS](https://app.powerbi.com/view?r=eyJrIjoiNTBmNzU5OWQtMjFlZi00ZTc4LTgyYTYtODM4MDA2ZTRmY2Y3IiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9) 
 
 <details>
 <summary>Resumo</summary>
