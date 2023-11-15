@@ -119,7 +119,7 @@ Participar dos Projetos de Workshops da EBAC - Escola Britânica de Artes Criati
 
 ---
 
-[ANÁLISE ACERCA DOS VALORES DE APÓLICES DE SEGUROS POR REGIÃO](https://app.powerbi.com/view?r=eyJrIjoiZTI4NzdkYzctNTc2ZC00NzQ5LThkY2QtODZlOTU3NzgxNzhiIiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9):  Este dashboard foi criado com o propósito não apenas compreender e diferenciar variáveis quantitativas e qualitativas, mas também abrange a compreensão das medidas de localização e dispersão. Além disso, explora o uso da linguagem DAX para criar medidas de quartis e proporciona uma explanação sobre a diversidade de tipos gráficos disponíveis. 
+[ANÁLISE ACERCA DOS VALORES DE APÓLICES DE SEGUROS POR REGIÃO](https://app.powerbi.com/view?r=eyJrIjoiMDc3ZmE0NTYtMTJjNC00MzUyLWI2NWMtYWQ4MzhhYjRmMTE4IiwidCI6IjY1MDJkMDY4LTM1YjMtNDU0My05OTg0LWY4YmQ3MDRjMzgzNyJ9):  Este dashboard foi criado com o propósito não apenas compreender e diferenciar variáveis quantitativas e qualitativas, mas também abrange a compreensão das medidas de localização e dispersão. Além disso, explora o uso da linguagem DAX para criar medidas de quartis e proporciona uma explanação sobre a diversidade de tipos gráficos disponíveis. 
 <details>
 <summary>OBJETIVO</summary>
 
