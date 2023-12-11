@@ -147,7 +147,7 @@ _**Workshop** - Como criar uma analise descritiva usando Power BI_ | _**Ferramen
 
 ## 📚 Skills
 
-<sub> Data Scientist | Data Analyst | BI Analyst   </sub>
+<sub> Data Scientist | Data Analyst  </sub>
 
 * Possuo conhecimentos em **Python** com foco em Análise de Dados e Ciência de Dados, bem como habilidades em bibliotecas essenciais como **Pandas**, **Numpy**, **Scikit-Learn** e **Matplotlib**. 
 * Adicionalmente, possuo competências em **SQL/MySQL**, **ETL**, **Power BI**, **Excel**, **DataBricks**, criação de narrativas com dados, conhecimentos estatísticos, análises preditivas e interpretação de séries temporais. Essa combinação me capacita a elaborar e avaliar procedimentos e dados em sistemas de bancos de dados, satisfazendo as demandas dos clientes de maneira eficaz. 📊🔍💡
