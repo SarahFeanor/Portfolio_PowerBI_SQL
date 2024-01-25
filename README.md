@@ -16,7 +16,7 @@ Vale ressaltar que todos os dados são exclusivamente para fins de **demonstraç
 ---
 # PROJETOS SQL
 
-## 🔹 Projeto - [Modelagem e Análise de Dados Veiculares](https://github.com/SarahFeanor/data_modeling_project_ADAtech)
+## Projeto - [Modelagem e Análise de Dados Veiculares](https://github.com/SarahFeanor/data_modeling_project_ADAtech)
 Nosso projeto teve como objetivo demonstrar nossa experiência prática na criação de um banco de dados a partir de um cenário do mundo real, aplicando os conceitos aprendidos em modelagem de banco de dados e SQL. A capacidade de documentar e apresentar o trabalho de maneira clara e estruturada. O propósito fundamental do nosso projeto é empregar consultas SQL para obter insights cruciais sobre a precificação e desvalorização de veículos. Estamos focados em identificar os carros de entrada, avaliando sua precificação em relação aos salários mínimos. Além disso, buscamos destacar os veículos que apresentam as maiores variações percentuais de preço, entre outros tópicos relevantes no contexto automotivo. 
 
 
@@ -24,7 +24,7 @@ Nosso projeto teve como objetivo demonstrar nossa experiência prática na cria�
 # PROJETOS Power BI
 
 
-## 🔹 Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
+## Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
 
 
 Os projetos abaixo são referentes a este curso de Power BI. O curso abrange desde os conceitos fundamentais até aplicações práticas em áreas cruciais, como marketing, recursos humanos, logística, finanças e análise do mercado de ações.
